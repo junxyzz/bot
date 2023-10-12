@@ -53,7 +53,7 @@ dump = []
 memek = []
 done = False
 ualu,ualuh = [],[]
-sys.stdout.write('\x1b]2; brazzer X haecerjoin\x07')
+##sys.stdout.write('\x1b]2; brazzer X haecerjoin\x07')
 ###------------------------------------------------------------------>
 #     *CEK WARNA RANDOM
 ###------------------------------------------------------------------>
