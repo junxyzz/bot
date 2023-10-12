@@ -1,5 +1,5 @@
 import os
-import main
+import b
 
 
-main.kontol()
+b.masukk()
