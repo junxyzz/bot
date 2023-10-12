@@ -71,3 +71,7 @@ def helojun():
 		else:
 			login()
 	except:pass
+
+
+if __name__=='__main__':
+	comex()
