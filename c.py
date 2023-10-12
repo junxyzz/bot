@@ -1,5 +1,5 @@
 import os
-from main import c as main
+from c import main
 
 
 def Authkey():
